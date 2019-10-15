@@ -1,0 +1,11 @@
+
+
+@relation icecreamsale
+
+@attribute temperature numeric
+@attribute sale numeric
+
+@data
+14.2    215
+15.2    332
+16.4    325
